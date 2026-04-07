@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi there 👋 I'm Akhil
 
-<!--
-**akhil032005/akhil032005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Final-year CSE Student  
+🌱 Currently learning java, JavaScript
+💡 Passionate about building real-world projects  
+🚀 Looking for internship opportunities  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 My Projects
+
+- 📊 BDA Mini Project  
+- 📱 Android To-Do App  
+- 🌐 Portfolio Website  
+
+---
+
+## 🛠 Tech Stack
+
+- 🐍 Python  
+- 📊 Power BI  
+- 🗄 MySQL  
+
+---
+
+## 📫 Connect With Me
+
+- 📧 yourmail@gmail.com  
+- 💼 LinkedIn: https://www.linkedin.com/in/akki-akhil0329/
