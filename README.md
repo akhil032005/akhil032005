@@ -9,8 +9,6 @@
 
 ## 🚀 My Projects
 
-🚀 My Projects
-
 • FormEase: Dyslexia Form Assistant         
 • AITextExtractor         
 • Big data analytics mini project          
