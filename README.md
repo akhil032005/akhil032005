@@ -11,7 +11,7 @@
 
 🚀 My Projects
 
-• FormEase: Dyslexia Form Assistant
+• FormEase: Dyslexia Form Assistant   
 • Android To-Do App
 • Portfolio Website
 ---
