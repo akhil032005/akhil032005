@@ -1,9 +1,9 @@
 # Hi there 👋 I'm Akhil
 
-🎓 Final-year CSE Student  
-🌱 Currently learning Python, data anlaysis
-💡 Passionate about building real-world projects  
-🚀 Looking for internship opportunities  
+🎓 Final-year CSE Student          
+🌱 Currently learning Python, DSA, data analytics, MYSQL    
+💡Passionate about building impactful projects that solve real-world problems      
+🚀 I love learning new things and making a difference with technology         
 
 ---
 
@@ -11,16 +11,16 @@
 
 🚀 My Projects
 
-• FormEase: Dyslexia Form Assistant   
-• Android To-Do App
-• Portfolio Website
+• FormEase: Dyslexia Form Assistant         
+• AITextExtractor         
+• Big data analytics mini project          
 ---
 
 ## 🛠 Tech Stack
 
-- 🐍 Python  
-- 📊 Power BI  
-- 🗄 MySQL  
+- 🐍 Python        
+- 📊 Power BI       
+- 🗄 MySQL       
 
 ---
 
